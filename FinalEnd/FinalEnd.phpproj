@@ -1,0 +1,2055 @@
+"General"
+{
+"CodePage" = "65001"
+"ForceCodePageInAllFiles" = "true"
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Lokal|PHP 5"
+    {
+    }
+    "Lokal|PHP 4"
+    {
+    }
+    "Remote|PHP 5"
+    {
+    }
+    "Remote|PHP 4"
+    {
+    }
+}
+"Files"
+{
+    "class\\DatabaseObjects\\cls_NewsFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sun.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\17.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet27.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet12.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_News.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\ultimatum.ogg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_Ship.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Map.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_getCredits.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet60.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_GroupFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\9.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.Zandi_wtf.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Research.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\default.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.Zandi_ORGINAL_wtf.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\i_CollectionElements.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzComment.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ShipFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\black hole.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ClickManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateSlowed.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\31.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Invite.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Finalend.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Login.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RouteCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet56.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet41.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Map.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Setings.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\27.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\12.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe_Ishmael_ORGINAL_Ishmael.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet37.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet22.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_UserCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Quote.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ImpressumExtern.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PremiumPayments.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Footer.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet18.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\4.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UnitFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ParseAbleObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StateFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Friend.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PremiumChargeAccount.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet51.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_NewsManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_BuildingManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\foodAdmin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_NewUnit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_RankingAllianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe_Bernde_fluorescence.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StatsFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Enemy.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\37.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\22.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_LoadingGroups.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet47.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet32.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\final-end.mp3"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateEMPed.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Popup.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\StateLine.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\18.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet28.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet13.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzTopicFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\Quest"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_ParseAbleObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet61.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RoutePointCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Word.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_ForumThreadCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\32.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_SystemManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet57.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet42.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzCommentManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\cfg.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\System.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Request.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_ForumThread.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RouteManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_GroupsCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SkillManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RoutePoint.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SettingsDeleteUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\28.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\13.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MapObjectManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet38.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet23.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StateManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzNoAllianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_UnitDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fleisch.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzDeleteUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db0.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet19.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\5.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits3.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AbstractCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ForumThreadManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_JumpOffline.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_PlanetOwne.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_BuildingsPremium.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzForeigen.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet52.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_UserManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_PlanetManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Alianz.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\raumschiff.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_UserNewPlanet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_QuoteFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\ajax.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\38.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\23.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet48.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_UnitDestroyedEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet33.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StatsManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fog.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Counter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzShowUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_DataPrivacy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.SilanCer_Disturbed-t.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateJumpOffline.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ShipBuildPremium.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\buildings\\cls_PlanetProtection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Include.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Menu.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\19.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Panel.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\admin"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet29.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet14.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_TaskCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzCommentFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AddAFriend.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Main.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_catering_finder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_InviteConstants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TableSpacer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\mootools-more.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet62.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Ranking.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ForumThreadFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ringPlanet.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RoutePointFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_InviteFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Research.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\33.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet58.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet43.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Building.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UnitCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_IngameHeaderNew.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ResearchTMP.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MessageCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\29.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\14.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateLowDamage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateSpeedy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MapObjectFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Resource.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet39.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet24.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzMemberManagment.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Map.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateWeaponOffline.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SettingsChangePass.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ReSearch.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Event.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\admin\\tpl_AdminMessage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MapObjectCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlayerMessageCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PlanetWorkon.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzTopicCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ClickFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe_Ishmael_Ishmael.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Register.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits4.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SaleCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_SystemFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_Template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RoutePointManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Ships.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Impressum.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet53.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateScannerOffline.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SaleManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_UserCompare.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\main.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\sitzplan.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\24.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_MessageReciveEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet49.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet34.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UserStats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipBuildCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Unit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ForumContentFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlayerMessage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Buildings.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe_Bernde_ORGINAL_fluorescence.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\final-end.ogg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\buildings\\cls_HeadQuarter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_GroupCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateFrightened.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_UserStats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet15.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Battle.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_AbstractCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzCommentCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ReSearchManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Groups.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzTopicManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\ajax.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzAddTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_PlanetFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Error.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\34.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sonne1.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet59.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet44.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_UnitLostEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateMoral.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Msg.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\food.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Ranking.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.ReMaker_DSC00066.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_BuildingCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_UserProfil.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateFallout.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\ultimatum.mp3"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\15.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_InviteManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_NewsCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\buildings"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ShipBuild.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet25.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet10.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Benefit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_DethStarDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db\\cls_mysql_exeption.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Effects.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "language\\lang_Eng.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_BuildDeathStarDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateHullDamage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.ReMaker_ORGINAL_DSC00066.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "dailyKeyUpdate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\7.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\excanvas.compiled.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AGB.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_UserFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\class_db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_Repair.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits5.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_InviteCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_SaleCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db\\cls_mysql.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateBayOffline.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SaleShip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RouteFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\cfg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet54.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Time.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_Group.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "language\\lang_Ger.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Statics.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UnitManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ChangeLog.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_ForumContent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\25.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\10.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tmp\\d.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planet.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\kristal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet35.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet20.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_BuildingFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateArmoured.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Right.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_State.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Route.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet16.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Payment.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MessageFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzWorkOn.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Skill.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tmp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Task.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Admin.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Date.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_EventCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\35.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\20.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MessageManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Route.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet45.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet30.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Goal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SystemMessage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_DockPremiumShips.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Add.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\i_CollectionElements.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Dock.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Units.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\rings.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SaleCreateShip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_CreateAllianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\cfg\\cfg.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Help.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SaleFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\16.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_MessageSendEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\admin\\tpl_AdminPanel.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SkillFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet26.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet11.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\class_db\\cls_mysql.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\mootools-core.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\admin\\tpl_AdminPanelLogin.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_BattleCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\PicLoader.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ReSearchFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\8.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\objects\\cls_ForumContentCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Down.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\30.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Quote.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\DatabaseObjects\\cls_ForumContentManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Navi.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet55.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet40.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\Main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\autocomplette.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Help.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Units.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet60png.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Userstats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\26.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\11.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet36.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_catering_manager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet21.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_SystemEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_IngameHeader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_SkillCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Background.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Story.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_Route.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\class\\class_db\\cls_mysql_exeption.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.ReMaker_DSC00107.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\credits.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\Quest\\cls_QuestRaiderDestroy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\state\\cls_StateOverload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\javascript\\Gallery.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_PlanetOthers.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet17.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Treibstoff.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Building.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\metal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\GimpPlanet.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\handling.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet50.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MapObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Haven6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ShipManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\slimbox2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\user\\sCe.ReMaker_ORGINAL_DSC00107.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UserCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\excanvas.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\36.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "forum\\images\\smile\\21.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipBuild.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlanetCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet46.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet31.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ReSearchCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\Quest\\cls_Quest.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+"UserReference" = "class\\DatabaseObjects\\cls_UserManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzCommentFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzCommentManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzTopicFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_AllianzTopicManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_BuildingFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_BuildingManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_catering_finder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_catering_manager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ClickFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ClickManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_MessageFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_MessageManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_NewsFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_NewsManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_PlanetFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_PlanetManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_QuoteFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ReSearchFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ReSearchManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_SaleFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_SaleManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ShipFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_ShipManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_SystemFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_SystemManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_UnitFinder.php"
+"UserReference" = "class\\DatabaseObjects\\cls_UnitManager.php"
+"UserReference" = "class\\DatabaseObjects\\cls_UserFinder.php"
+"UserReference" = "class\\db\\cls_mysql.php"
+"UserReference" = "class\\logic\\cls_Request.php"
+"UserReference" = "class\\logic\\cls_Controler_Allianz.php"
+"UserReference" = "class\\logic\\cls_Controler_Click.php"
+"UserReference" = "class\\logic\\cls_Controler_Help.php"
+"UserReference" = "class\\logic\\cls_Controler_Login.php"
+"UserReference" = "class\\logic\\cls_Controler_Main.php"
+"UserReference" = "class\\logic\\cls_Controler_Map.php"
+"UserReference" = "class\\logic\\cls_Controler_Message.php"
+"UserReference" = "class\\logic\\cls_Controler_Planet.php"
+"UserReference" = "class\\logic\\cls_Controler_Ranking.php"
+"UserReference" = "class\\logic\\cls_Controler_Research.php"
+"UserReference" = "class\\logic\\cls_Controler_Resource.php"
+"UserReference" = "class\\logic\\cls_Controler_Sale.php"
+"UserReference" = "class\\logic\\cls_Controler_Ships.php"
+"UserReference" = "class\\logic\\cls_Controler_Units.php"
+"UserReference" = "class\\logic\\cls_Controler_User.php"
+"UserReference" = "class\\logic\\cls_Include.php"
+"UserReference" = "class\\objects\\i_CollectionElements.php"
+"UserReference" = "class\\objects\\cls_AbstractCollection.php"
+"UserReference" = "class\\objects\\cls_Allianz.php"
+"UserReference" = "class\\objects\\cls_AllianzCollection.php"
+"UserReference" = "class\\objects\\cls_AllianzComment.php"
+"UserReference" = "class\\objects\\cls_AllianzCommentCollection.php"
+"UserReference" = "class\\objects\\cls_AllianzTopic.php"
+"UserReference" = "class\\objects\\cls_AllianzTopicCollection.php"
+"UserReference" = "class\\objects\\cls_Battle.php"
+"UserReference" = "class\\objects\\cls_BattleCollection.php"
+"UserReference" = "class\\objects\\cls_Building.php"
+"UserReference" = "class\\objects\\cls_BuildingCollection.php"
+"UserReference" = "class\\objects\\cls_Click.php"
+"UserReference" = "class\\objects\\cls_Date.php"
+"UserReference" = "class\\objects\\cls_Message.php"
+"UserReference" = "class\\objects\\cls_MessageCollection.php"
+"UserReference" = "class\\objects\\cls_News.php"
+"UserReference" = "class\\objects\\cls_NewsCollection.php"
+"UserReference" = "class\\objects\\cls_ParseAbleObject.php"
+"UserReference" = "class\\objects\\cls_Planet.php"
+"UserReference" = "class\\objects\\cls_PlanetCollection.php"
+"UserReference" = "class\\objects\\cls_PlayerMessage.php"
+"UserReference" = "class\\objects\\cls_PlayerMessageCollection.php"
+"UserReference" = "class\\objects\\cls_Quote.php"
+"UserReference" = "class\\objects\\cls_ReSearch.php"
+"UserReference" = "class\\objects\\cls_ReSearchCollection.php"
+"UserReference" = "class\\objects\\cls_Sale.php"
+"UserReference" = "class\\objects\\cls_SaleCollection.php"
+"UserReference" = "class\\objects\\cls_Task.php"
+"UserReference" = "class\\objects\\cls_TaskCollection.php"
+"UserReference" = "class\\objects\\cls_Template.php"
+"UserReference" = "class\\objects\\cls_Unit.php"
+"UserReference" = "class\\objects\\cls_UnitCollection.php"
+"UserReference" = "class\\objects\\cls_User.php"
+"UserReference" = "class\\objects\\cls_UserCollection.php"
+}

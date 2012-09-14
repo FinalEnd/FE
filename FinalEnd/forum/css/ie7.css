@@ -1,0 +1,81 @@
+/*##############################################################################
+ * allgemeine Sachen
+ */
+label
+{
+    position:               relative;
+    zoom:1;
+}
+.checkbox
+{
+    margin-left:            0;
+}
+/*##############################################################################
+ * "Body"-Div um die gesamte Seite
+ */
+
+/*##############################################################################
+ * Head
+ */
+
+ /*##############################################################################
+ * fonts
+ */
+ 
+/*##############################################################################
+ * Navi
+ */
+#navi {
+    list-style-type:        none;
+    position:               absolute;
+    left:                   -15px;
+    }
+
+	#navi a 
+	{
+		zoom:1;
+	}
+
+#navi a:hover {
+    zoom:                   1;
+}
+
+#navi a:hover img {
+    margin-bottom:          -2px;
+}
+
+#navi #news { background-image:url(../images/navi/hover/navi_komplett_03.png); }
+#navi #catering { background-image:url(../images/navi/hover/navi_komplett_05.png); }
+#navi #server { background-image:url(../images/navi/hover/navi_komplett_06.png); }
+#navi #downloads {background-image:url(../images/navi/hover/navi_komplett_07.png); }
+#navi #turnier {background-image:url(../images/navi/hover/navi_komplett_08.png); }
+#navi #faq {background-image:url(../images/navi/hover/navi_komplett_09.png); }
+#navi #admin {background-image:url(../images/navi/hover/navi_komplett_10.png); }
+#navi #nachrichten {background-image:url(../images/navi/hover/navi_komplett_12.png); }
+/*##############################################################################
+ * Content
+ */
+.DivOptionGroup
+{
+	background-color:#FFFFFF;
+}
+
+.DivOptionPoint
+{
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:1;
+   	border-color:#BFBFBF;
+}
+
+.DivCloseButton
+{
+	color:#0000FF;
+	font-weight:bold;
+	font-size:8px;
+}
+.newsDate
+{
+	float:left;
+	width:90px;
+}

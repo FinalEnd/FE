@@ -1,0 +1,2 @@
+:T_MESSAGE_CREDITS31:.<br />
+:T_MESSAGE_CREDITS32: <?php echo $this->Credits;?> :T_MESSAGE_CREDITS33:. 

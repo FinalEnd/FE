@@ -1,0 +1,2713 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Lokal|PHP 5"
+    {
+    }
+    "Lokal|PHP 4"
+    {
+    }
+    "Remote|PHP 5"
+    {
+    }
+    "Remote|PHP 4"
+    {
+    }
+}
+"Files"
+{
+    "images\\Map\\Left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlayerMessageCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SystemMessage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Hunter_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_InviteConstants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tmp\\d.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\ObjectsSmall - Verknüpfung.lnk"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Finalend.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet92.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet25.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet10.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Quote.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Right.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Effects.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Ranking.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet74.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sun.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Map.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_PlanetOthers.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Help.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Right.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet103.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Research.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\11.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\TransporterSmall_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Route.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet88.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet73.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Building.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapBackGround1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet55.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet40.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\Banner.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\HunterBig_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\25.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\10.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Story.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Destroyed3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_IngameHeader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SettingsChangePass.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet69.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet54.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SkillManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Planet.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Footer.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\stars-background.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Resource.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\credits.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_UnitDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet36.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet21.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\loading.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ContentLeft.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\BattleShip_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\T_Screen2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Request.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet35.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet20.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bullet.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet17.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ReSearchManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Footer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\prevlabel.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Payment.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Loading.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\Banner2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\TransporterSmall_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet98.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet83.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_Route.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet16.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet65.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet50.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Battle.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\mootools-core.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\final-end.mp3"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TopSpacer.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\35.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\20.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UserStats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\help\\ReSearchtreeWhite.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet79.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet64.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_UnitDestroyedEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Invite.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzAddTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet46.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet31.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\5.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\default.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_PlanetOwne.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db0.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AddAFriend.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StatsManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\BattleShip_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Userstats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_BuildingCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\16.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ContentSpacer.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Transporter_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PlanetWorkon.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\sonne1.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_BuyEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet45.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet30.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet27.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet12.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Ranking.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Hunter_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet93.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Delete.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet26.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet11.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_BuildingManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet75.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Include.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet60.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ShipManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Benefit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MapObjectManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_News.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\UserBanner1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet104.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\30.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzNoAllianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzTopicManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UnitCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\help"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet89.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet74.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_BuildingConstructed.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\handling.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PremiumChargeAccount.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet56.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet41.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\raumschiff.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\HunterBig_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ReSearch.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\26.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\11.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\slimbox2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet55.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet40.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AGB.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet37.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet22.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\excanvas.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SaleCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Hunter_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Bomber_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Statics.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\excanvas.compiled.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\T_Screen3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\LoginContainer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Top.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Store.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet36.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet21.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet70.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet18.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Cdriedits.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RoutePointManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_InviteCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Time.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\nextlabel.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\Banner3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet99.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Down.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet84.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ResearchTMP.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet17.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UserCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SaleManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ringPlanet.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet66.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet51.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\HunterBig_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\36.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\21.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_PlanetEpidemic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet65.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet50.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_MessageReciveEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Drone_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet47.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet32.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipBuildCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_MessageSendEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RoutePointFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "calculatebattles.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Allianz"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\17.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Transporter_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlayerMessage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet46.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet31.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SaleFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Credits.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_LoadingGroups.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet28.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet13.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet60png.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fog.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet94.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet27.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet12.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_NewsManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Add.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet76.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet61.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Register.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\UserBanner2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "tmp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_StatsFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\rings.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits3.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_UserProfil.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet105.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\31.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_NewUnit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet75.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet60.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SettingsDeleteUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet57.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzForeigen.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet42.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_GroupsCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Workon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Skill.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\27.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\12.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Transporter_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet56.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet41.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Navi.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet38.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet23.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Date.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\Screen1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_SystemEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Bomber_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Goal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_EventConstants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\WhiteLayer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet37.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet22.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_BattleCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Counter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet71.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet19.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_SellEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_UserNewPlanet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_SaleCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RouteFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RoutePointCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\Banner4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\loading.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet85.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet70.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet18.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UnitManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzCommentManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet67.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet52.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "mapposition.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\37.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\22.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\final-end.ogg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet66.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet51.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzCommentCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Panel.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Drone_F.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MapObjectFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet48.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet33.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\7.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_RouteManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TopLeft.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzTopicCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\db2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\metal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_IngameHeaderNew.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ReSearchCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_PlanetExtractRessources.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzDeleteUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Bomber_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Allianz\\Die Vernichter_an herzi.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzTopic.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_EmergencyJump.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\18.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Groups.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_NewsFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet47.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet32.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width10.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet29.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet14.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Captcha.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MapObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet95.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet80.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet28.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet13.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\close.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet77.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet62.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\cfg.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Map.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Minus.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Asteroid1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Sale.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner\\UserBanner3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet0.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits4.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_QuoteFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet106.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ShipFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\32.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\ultimatum.mp3"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\TopLeft.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet76.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet61.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipBuild.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_BuildDeathStarDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_PlanetCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Drone_A.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Popup.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet58.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet43.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fader-bottom.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ContentRight.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "language\\lang_Ger.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SkillFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\28.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\13.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Units.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet57.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet42.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\PicLoader.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet39.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet24.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_getCredits.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\Screen2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Msg.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\login2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Setings.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet90.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Login.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzTopicFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet38.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet23.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_SaleCreateShip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RoutePoint.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Map.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet72.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ImpressumExtern.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_PremiumPayments.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UnitFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet101.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\Unbenannt.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\LoginScreenShots.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fader-top.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet86.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet71.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Plas.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TableSpacer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet19.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_RouteCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet68.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet53.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\BlueLayer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzCreate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\No.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\mootools-more.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Criedits.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\38.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\close32.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\23.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Destroyed1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Friend.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet67.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet52.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\slimbox2.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet49.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet34.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\8.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Building.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MessageCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_TaskCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_MapObjectCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\19.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\help\\TechTree.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzMemberManagment.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Banner"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet48.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet33.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map\\tpl_Map_DethStarDescription.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_Sabotage.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Statistik.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet15.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Skill.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planet.xcf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\ajax.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Unit.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Enemy.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ParseAbleObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Error.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet96.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet81.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Route.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet29.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet14.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\People.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet78.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet63.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Ships.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Asteroid2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Arrow_Down.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_LostCredits5.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\favicon.ico"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\33.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_BuildingFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_DataPrivacy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Repaire.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet77.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet62.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet59.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet44.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Impressum.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message\\tpl_Planet.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db\\cls_mysql_exeption.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_CreditsSteal.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\29.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\14.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet58.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet43.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\TopRight.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet25.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet10.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\Screen3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Background.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\System.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Word.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\help\\TechTreeWhite.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet91.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet39.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet24.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_EventCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet73.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Help.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Buildings.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AllianzComment.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MessageManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_catering_manager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_UserStats.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Treibstoff.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\closelabel.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\GimpPlanet.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet102.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Units.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AbstractCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\10.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\TransporterSmall_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet87.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet72.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\message"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\BackGroundGame3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet69.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet54.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\kristal.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_PlanetFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_Ship.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width8.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet0.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\24.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\bg\\TopLeft2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_UnitLostEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\i_CollectionElements.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Destroyed2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet68.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet53.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet35.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet20.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\9.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Alianz.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ReSearchFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\fleisch.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ContentRight.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\BattleShip_E.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\LoginBackground.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\ScreenShots\\T_Screen1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_catering_finder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet49.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet34.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\help\\ReSearchtree.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzShowUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Destroyed.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet16.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\skills\\cls_Skill_Repair.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\overlay.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_MessageFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ShipBuild.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Quote.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Haven2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\login2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\events\\cls_UnitCreatedEvent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet97.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet82.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet15.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\MapObject7.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet79.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet64.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Dock.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Research.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Asteroid3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\Main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Edit.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\black hole.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\34.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\RedLayer.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\StateLine.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet78.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet63.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_PlanetManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\db\\cls_mysql.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet45.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet30.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\4.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AllianzWorkOn.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sound\\ultimatum.ogg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_NewsCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\Width.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\units\\Level\\9.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Main.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\15.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_RankingAllianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Task.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Allianz.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet59.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_AllianzCommentFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_SkillCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\ships\\cls_ShipCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\planets\\Planet44.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ChangeLog.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet26.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Map\\ObjectsSmall\\Planet11.png"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

@@ -1,0 +1,910 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Lokal|PHP 5"
+    {
+    }
+    "Staging|PHP 5"
+    {
+    }
+    "Produktion|PHP 5"
+    {
+    }
+}
+"Files"
+{
+    "view\\tpl_WorkonProfilView.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Exe.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\30.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\resize-handle.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe_Bernde_ORGINAL_fluorescence.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\url.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\26.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\11.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Folder.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ForumThreadContent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".vsphpignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ForumCreateThread.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\foodAdmin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\list.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\class_db\\cls_mysql_exeption.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Txt.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Error.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\36.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\21.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\table.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\ignore.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Impressum.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\left.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\17.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\5.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\system\\tpl_Error.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Rar.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\msi.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\move.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\31.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\ie6.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_upload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.Zandi_ORGINAL_wtf.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Counter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\27.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\12.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\gallery.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\arrow-down.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Templateview.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\None.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Zip.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\sup.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\code.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Mpg.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.SilanCer_Disturbed-t.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\37.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\22.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\strike.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_News.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\ftp.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\18.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\tele.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\6.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ForumThreadFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\merge.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\im_reply.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Message.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ParseAbleObject.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\ie.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ProfilView.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\calendarpe.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\32.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Txt.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\main.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\ie7.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\close.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\28.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\13.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\class_db\\cls_mysql.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_TextParser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\1.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\divider.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\img.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AdminMessageWorkOn.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\const"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\system - Verknüpfung.lnk"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Request.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Main.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AdminBadWordTemplate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\food.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\rar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Pdf.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\38.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\23.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\flash.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\system"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_AbstractCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\19.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ForumThread.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\hr.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\7.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Footer2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\i_CollectionElements.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\search.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\search.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.ReMaker_ORGINAL_DSC00107.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\None.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Include.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\33.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AdminMainTemplate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\details.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Zip.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\approve.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\mpg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\right.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\29.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\14.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\2.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\sitzplan.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\quote.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_diagramm.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\glow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\orderlist.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ForumContentManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_UserManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\bbc_hoverbg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe_Bernde_fluorescence.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\24.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ForumSearch.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\avi.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Forum.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ForumContentWorkOn.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\split.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Download.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\pre.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\sub.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\underline.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ForumThreadManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe_Ishmael_ORGINAL_Ishmael.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\8.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe_Ishmael_Ishmael.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.ReMaker_ORGINAL_DSC00066.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ProfilChangePass.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_GroupCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Exe.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.ReMaker_DSC00107.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\bold.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_User.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\ajax.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\34.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\system\\tpl_LogOut.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\arrow-up.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\Gallery.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Error.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\reply_sm.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\class_db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\restore_topic.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Pdf.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\15.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_Group.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\reply.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ForumContent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Forum.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\3.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\const\\const.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\shadow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ClickFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\delete.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\pencil.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_GroupFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg\\cfg.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\unformat.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.Zandi_wtf.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\center.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ForumThreadCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\system\\tpl_login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Admin.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\25.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\10.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Footer.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_SystemManager.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user\\sCe.ReMaker_DSC00066.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Header2.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_UserCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\notify_sm.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_AdminShowUser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ForumWorkOnThread.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\Msi.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\9.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Profil.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\base.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\objects\\cls_ForumContentCollection.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\logic\\cls_Controler_Click.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\user"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\toggle.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\modify.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_Register.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\35.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\20.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class\\DatabaseObjects\\cls_ForumContentFinder.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\bbc_bg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\header_icon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\email.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\16.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "javascript\\autocomplette.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_MessageShowAll.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "cfg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\italicize.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\smile\\4.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\system\\im_reply_all.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "class"
+    {
+    "ProjRelPath" = "T"
+    }
+    "view\\tpl_ErrorTemplate.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

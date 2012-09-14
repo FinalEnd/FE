@@ -1,0 +1,33 @@
+zum neustarten der final end berechnung 
+
+top  pid von dem php auslesen 
+
+nohup php /var/www/calculatebattles.php /var/www/ 1 &
+nohup php /var/www/mapposition.php /var/www/ 1 &
+
+
+threads beobachten
+tail -f /var/www/nohup.out
+
+
+accesslog angucken
+tail -f /var/log/apache2/access.log
+
+
+
+// windows
+
+pfad zum php >> pfad zur phpdatei >> pfad zu den includes >> Id der datenbank 1, 2, 3
+
+C:\Users\ReMaker>
+
+C:\entwicklung\Programme\xampp\php\php.exe C:\entwicklung\Progr
+amme\xampp\htdocs\Final-End\calculatebattles.php C:\entwicklung\Programme\xampp\
+htdocs\Final-End 1
+
+
+C:\Users\ReMaker>
+
+C:\entwicklung\Programme\xampp\php\php.exe C:\entwicklung\Progr
+amme\xampp\htdocs\Final-End\calculatebattles.php C:\entwicklung\Programme\xampp\
+htdocs\Final-End 1

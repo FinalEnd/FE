@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "final end", "final end.phpproj", "{7E581DDA-DFAC-45B9-970E-3E49502EA992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Lokal|PHP 5 = Lokal|PHP 5
+		Produktion|PHP 5 = Produktion|PHP 5
+		Staging|PHP 5 = Staging|PHP 5
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Lokal|PHP 5.ActiveCfg = Lokal|PHP 5
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Lokal|PHP 5.Deploy.0 = Lokal|PHP 5
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Produktion|PHP 5.ActiveCfg = Produktion|PHP 5
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Produktion|PHP 5.Deploy.0 = Produktion|PHP 5
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Staging|PHP 5.ActiveCfg = Staging|PHP 5
+		{7E581DDA-DFAC-45B9-970E-3E49502EA992}.Staging|PHP 5.Deploy.0 = Staging|PHP 5
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

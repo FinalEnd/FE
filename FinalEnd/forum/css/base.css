@@ -1,0 +1,178 @@
+/*##############################################################################
+ * allgemeine Sachen
+ */
+a:link {  color:white; }
+a:visited {  color:white; }
+a:focus {  color:white; }
+a:hover {  color:white; }
+a:active {  color:white; }
+
+
+body {
+    font-family:            Verdana, Adobe Helvetica, Helvetica, sans-serif;
+    font-size:              62.5%;
+    background-position:    top center;
+    background-color:       #000000;
+}
+
+.MainTable
+{
+
+	background-color:#000000;
+	width:90%;
+	text-align:left;
+	margin-left:5%;
+	margin-right:5%;
+
+}
+
+.ForumHeader
+{
+	text-align:left;
+	margin-left:5%;
+	margin-right:5%;
+	color: #FFFFFF;
+}
+
+
+.ErrorHeader
+{
+	text-align:left;
+	margin-left:5%;
+	margin-right:5%;
+	color: #FF0000;
+}
+
+a img {
+    text-decoration:        none;
+    border:                 none;
+}
+
+
+legend
+{
+    margin-left:            1em;
+    padding:                2px;
+}
+
+fieldset
+{
+    margin-bottom:          1em;
+    padding:                0.5em;
+}
+
+label
+{
+    display:                block;
+}
+.labelinline
+{
+    display:                inline;
+}
+.submitbutton
+{
+    margin-top:             1em;
+}
+input
+{
+    margin-bottom:          0.5em;
+}
+form
+{
+    margin-bottom:          1em;
+}
+.checkbox
+{
+    margin-bottom:          0;
+}
+button
+{
+    padding:                2px;
+}
+/*##############################################################################
+* Fonts
+*/
+h1
+{
+    font-size:              2em;
+} 
+h3
+{
+   font-size:              1.2em; 
+} 
+h1, h2, h3, h4, h5, h6
+{
+    margin-bottom:          1em;
+}
+
+p
+{
+    margin-bottom:          1em; 
+}
+
+
+
+
+
+/*##############################################################################
+ * Footer
+ */
+#footercontainer {
+    /*position:               absolute;*/
+    bottom:                 10px;
+    /*width:                  100%;*/
+}
+
+#footer {
+    text-align:             center;
+    margin-left:            50px;
+}
+
+
+
+.signatur
+{
+	font-size:10px;
+	font-style:italic;
+}
+
+ Table {
+
+	border-color:#FFFFFF;   
+  }
+  
+  
+   Table tr 
+   {
+
+    background-color: #000000;  
+ 
+  }
+  
+  Table td {
+    background-color: #000000;
+    border-width:1px;
+	border-style:solid;
+    color: #FFFFFF;
+	background-color: black;
+  }
+  
+   Table td.header {
+    color: black;
+    background-color: #eee;
+    font-weight: bold;
+  }
+
+
+
+.header
+{
+	color:#ffffff;
+	font-size:18px;
+	font-weight:bold;
+}
+
+
+
+
+
