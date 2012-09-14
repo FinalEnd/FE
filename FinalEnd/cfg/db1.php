@@ -4,8 +4,8 @@
 
 $MySql= MySqldb::getInstance();
 $MySql->setIP("localhost");
-$MySql->setDataBase("FINALEND");
-$MySql->setPassWord("toor");
+$MySql->setDataBase("asd");
+$MySql->setPassWord("asd");
 $MySql->setUser("root"); 
 //$MySql->connect();
 

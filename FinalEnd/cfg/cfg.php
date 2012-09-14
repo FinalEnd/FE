@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 
 define("BAD_WORD","pisser,arschloch,wixxer,penner,remaker,hurensohn,homo,kümmeltürke,verpissen,schwuchteln,hitler,penis,neger,pissnelke,schweineprister,bitch,assface,nigga,nigger,negger,retardet,idiot,sau,rindvieh,mistvieh");// komma getrennt bitte alle wörter aufschreiben die aus allen nachrichten und sonst wo geparst werden sollen, groß und kleinschreibung ist egal
@@ -97,11 +97,11 @@ define(UNIT_DRIVE_DEVICE_SPEEDLOW,0.25);
 define(UNIT_MARTYR_SPEED,0.5);// % langsamer wenn märtyrer
 
 define(ADMIN_NAME,"FEADMIN");
-define(ADMIN_PASS,"xu546KEFBVAxu546KEFBVA");
-define(MAP_REFRESH_KEY,"sdbjhdsyiwsjxu546KEFBVA");// der schlüsselder benötigt wird um die Karteupzudaten
+define(ADMIN_PASS,"asd");
+define(MAP_REFRESH_KEY,"asd");// der schlüsselder benötigt wird um die Karteupzudaten
 
 
-define(UNIT_RAIDER_KEY,"bnjxsd5KtuzvAW513LPVhe");
+define(UNIT_RAIDER_KEY,"asd");
 define(UNIT_MAX_SPEED,390);
 // pro woche ersden einmal neue Flotten gespawnt
 define(UNIT_RAIDER_MIN_COUNT,25);// wieviele raider Flotten werden angelegt minimal
